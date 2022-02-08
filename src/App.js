@@ -1,7 +1,11 @@
+import React from 'react'
+import Test from './components/Test';
+
 const App = () => {
   return (
     <div>
-      App
+      Hello World!
+      <Test />
     </div>
   );
 }
